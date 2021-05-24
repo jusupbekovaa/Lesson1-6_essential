@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n/WfowjXJbmuaCOLnKYvEgpTrFq0WHQ6eylFUrh/q93cysq3EYs8xvqhQMBnNgeqd0bYQpljvRrtxaz72P9dwg==",
+  "success": true,
+  "projectFilePath": "D:\\EFSOL\\Projects\\С# Essential\\Lesson 1-6\\ConsoleApp1-2\\ConsoleApp5-3\\ConsoleApp5-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aidana J\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

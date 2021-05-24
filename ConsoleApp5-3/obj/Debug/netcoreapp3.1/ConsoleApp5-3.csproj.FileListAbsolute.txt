@@ -1,0 +1,12 @@
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\bin\Debug\netcoreapp3.1\ConsoleApp5-3.exe
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\bin\Debug\netcoreapp3.1\ConsoleApp5-3.deps.json
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\bin\Debug\netcoreapp3.1\ConsoleApp5-3.runtimeconfig.json
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\bin\Debug\netcoreapp3.1\ConsoleApp5-3.runtimeconfig.dev.json
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\bin\Debug\netcoreapp3.1\ConsoleApp5-3.dll
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\bin\Debug\netcoreapp3.1\ConsoleApp5-3.pdb
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\obj\Debug\netcoreapp3.1\ConsoleApp5-3.AssemblyInfoInputs.cache
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\obj\Debug\netcoreapp3.1\ConsoleApp5-3.AssemblyInfo.cs
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\obj\Debug\netcoreapp3.1\ConsoleApp5-3.csproj.CoreCompileInputs.cache
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\obj\Debug\netcoreapp3.1\ConsoleApp5-3.dll
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\obj\Debug\netcoreapp3.1\ConsoleApp5-3.pdb
+D:\EFSOL\Projects\С# Essential\Lesson 1-6\ConsoleApp1-2\ConsoleApp5-3\obj\Debug\netcoreapp3.1\ConsoleApp5-3.genruntimeconfig.cache
